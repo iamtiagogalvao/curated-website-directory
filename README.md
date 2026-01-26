@@ -33,6 +33,8 @@ Docs, guides, standards, cheatsheets, “read this once and you level up”.
 
 CLIs, IDE tools, browser dev tools, playgrounds, generators.
 
+- **[ToolkitVault.com](https://toolkitvault.com/)** — A fast, privacy-first web toolkit with free developer utilities like UUID generation, password tools, and other everyday helpers.
+
 ---
 
 ## 🌐 Web Development
@@ -81,11 +83,15 @@ Public APIs, SDKs, API marketplaces, auth/OAuth references.
 
 Clipboard tools, converters, note systems, time savers, workflow boosters.
 
+- **[SMTPZen.com](https://smtpzen.com/)** - Developer-friendly SMTP and email routing/forwarding with deliverability-focused tools and checks to help your emails land in the inbox.
+
 ---
 
 ## 🌍 Communities, Blogs & Newsletters
 
 Communities, forums, newsletters, aggregators worth following.
+
+- **[CanIFreeze.com](https://canifreeze.com/)** - Practical, research-backed guides on freezing and food storage, with clear answers for what you can freeze and how to do it safely.
 
 ---
 
