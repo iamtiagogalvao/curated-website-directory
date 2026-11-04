@@ -77,6 +77,8 @@ LLMs, ML tooling, datasets, prompt tools, automation platforms, data pipelines.
 
 Public APIs, SDKs, API marketplaces, auth/OAuth references.
 
+- **[Bucketlist.nl Dream of the Day API](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json)** — No-key daily travel and life-experience JSON; Dutch default with optional English.
+
 ---
 
 ## 🧰 Utilities & Productivity
