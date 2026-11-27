@@ -83,6 +83,8 @@ Public APIs, SDKs, API marketplaces, auth/OAuth references.
 
 Clipboard tools, converters, note systems, time savers, workflow boosters.
 
+- **[StagePeek](https://stagepeek.live/)** — Interactive 2D seating maps and 3D concert stage-view simulator covering 201 global arenas and stadiums with 1x–10x camera zoom framing.
+
 - **[SMTPZen.com](https://smtpzen.com/)** - Developer-friendly SMTP and email routing/forwarding with deliverability-focused tools and checks to help your emails land in the inbox.
 
 ---
